@@ -1,0 +1,2 @@
+# build-all
+build all
